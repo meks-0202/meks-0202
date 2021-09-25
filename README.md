@@ -7,17 +7,15 @@
 
 - 🔭 I’m currently working on **Polishing my pentesting skills**
 
-- 🌱 I’m currently learning **...thinking of learning Docker, DevOps, K8s, Hadoop...it's too much!!...isn't it?**
+- 🌱 I’m currently wanting learn **Docker, DevOps, K8s, Hadoop**
 
 - 👯 I’m looking to collaborate on **Cloud related projects**
-
-- 💬 Ask me about **Anything that I can answer xD**
 
 - 📫 How to reach me **mekhlaupadhyay@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qUGcZjIQuYk6GqWW_4M6LDhUNAYYOQdf/view?usp=sharing](https://drive.google.com/file/d/1qUGcZjIQuYk6GqWW_4M6LDhUNAYYOQdf/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny, which I am!, or maybe not idk!!**
+- ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
