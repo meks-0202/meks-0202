@@ -4,6 +4,7 @@
 <img align = "right" src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = "400" >
 
 
+
 - 🔭 I’m currently working on **Polishing my pentesting skills**
 
 - 🌱 I’m currently wanting to learn **Docker, DevOps, K8s, Hadoop**
@@ -41,4 +42,4 @@
 <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meks-0202&show_icons=true&locale=en" alt="meks-0202" /></p-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meks-0202&label=Profile%20views&color=0e75b6&style=flat" alt="meks-0202" /> </p>
 
-<!--p align="left"> <a href="https://twitter.com/mekhlaupadhyay" target="blank"><img src="https://img.shields.io/twitter/follow/mekhlaupadhyay?logo=twitter&style=for-the-badge" alt="mekhlaupadhyay" /></a> </p-->
+
