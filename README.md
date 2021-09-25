@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mekhla 👋</h1>
-<h3 align="center">Cloud and cyber sec enthusiast</h3>
+<h3 align="center">Cloud and CyberSec enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meks-0202&label=Profile%20views&color=0e75b6&style=flat" alt="meks-0202" /> </p>
 
