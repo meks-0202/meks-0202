@@ -1,9 +1,23 @@
 <h1 align="center">Hi there, I'm Mekhla 👋</h1>
-<!--h3 align="center">A passionate frontend developer from India</h3-->
+<h3 align="center">A noob trying to be any better</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meks-0202&label=Profile%20views&color=0e75b6&style=flat" alt="meks-0202" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mekhlaupadhyay" target="blank"><img src="https://img.shields.io/twitter/follow/mekhlaupadhyay?logo=twitter&style=for-the-badge" alt="mekhlaupadhyay" /></a> </p>
+
+- 🔭 I’m currently working on **Polishing my pentesting skills**
+
+- 🌱 I’m currently learning **...thinking of learning Docker, DevOps, K8s, Hadoop...it's too much!!...isn't it?**
+
+- 👯 I’m looking to collaborate on **Cloud related projects**
+
+- 💬 Ask me about **Anything that I can answer xD**
+
+- 📫 How to reach me **mekhlaupadhyay@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qUGcZjIQuYk6GqWW_4M6LDhUNAYYOQdf/view?usp=sharing](https://drive.google.com/file/d/1qUGcZjIQuYk6GqWW_4M6LDhUNAYYOQdf/view?usp=sharing)
+
+- ⚡ Fun fact **I think I am funny, which I am!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
