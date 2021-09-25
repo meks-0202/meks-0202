@@ -3,9 +3,6 @@
 
 <img align = "right" src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = "400" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meks-0202&label=Profile%20views&color=0e75b6&style=flat" alt="meks-0202" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mekhlaupadhyay" target="blank"><img src="https://img.shields.io/twitter/follow/mekhlaupadhyay?logo=twitter&style=for-the-badge" alt="mekhlaupadhyay" /></a> </p>
 
 - 🔭 I’m currently working on **Polishing my pentesting skills**
 
@@ -42,4 +39,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meks-0202&layout=compact&theme=gotham&border_color=0E805F)](https://github.com/anuraghazra/github-readme-stats)
 <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meks-0202&show_icons=true&locale=en" alt="meks-0202" /></p-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meks-0202&label=Profile%20views&color=0e75b6&style=flat" alt="meks-0202" /> </p>
 
+<!--p align="left"> <a href="https://twitter.com/mekhlaupadhyay" target="blank"><img src="https://img.shields.io/twitter/follow/mekhlaupadhyay?logo=twitter&style=for-the-badge" alt="mekhlaupadhyay" /></a> </p-->
