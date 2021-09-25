@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Mekhla 👋</h1>
 <h3 align="center">Cloud and CyberSec enthusiast</h3>
 
+<img align = "right" src = "https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width = "400" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meks-0202&label=Profile%20views&color=0e75b6&style=flat" alt="meks-0202" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mekhlaupadhyay" target="blank"><img src="https://img.shields.io/twitter/follow/mekhlaupadhyay?logo=twitter&style=for-the-badge" alt="mekhlaupadhyay" /></a> </p>
