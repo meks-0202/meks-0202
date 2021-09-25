@@ -38,7 +38,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meks-0202&layout=compact&theme=algolia&border_color=3369e7)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-[![Mekhla's GitHub stats](https://github-readme-stats.vercel.app/api?username=meks-0202&count_private=true&show_icons=true&theme=gotham&border_color=0E805F width="50%")](https://github.com/anuraghazra/github-readme-stats)
+[![Mekhla's GitHub stats](https://github-readme-stats.vercel.app/api?username=meks-0202&count_private=true&show_icons=true&theme=gotham&border_color=0E805F&width="300px")](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meks-0202&layout=compact&theme=gotham&border_color=0E805F)](https://github.com/anuraghazra/github-readme-stats)
 <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meks-0202&show_icons=true&locale=en" alt="meks-0202" /></p-->
