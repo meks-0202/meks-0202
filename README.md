@@ -31,6 +31,6 @@
 
 <!--p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meks-0202&show_icons=true&locale=en&layout=compact" alt="meks-0202" /></p-->
 <!--[![Mekhla's GitHub stats](https://github-readme-stats.vercel.app/api?username=meks-0202&show_icons=true&theme=radical)]-->
-[![Mekhla's GitHub stats](https://github-readme-stats.vercel.app/api?username=meks-0202&count_private=true&show_icons=true&theme=radical&border_color=ff356f)](https://github.com/anuraghazra/github-readme-stats)
+[![Mekhla's GitHub stats](https://github-readme-stats.vercel.app/api?username=meks-0202&count_private=true&show_icons=true&theme=radical&border_color=ff3580)](https://github.com/anuraghazra/github-readme-stats)
 <!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meks-0202&show_icons=true&locale=en" alt="meks-0202" /></p-->
 
