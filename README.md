@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mekhlaupadhyay@gmail.com**
 
-- 📄 Know about my experiences [my_resume](https://drive.google.com/file/d/1qUGcZjIQuYk6GqWW_4M6LDhUNAYYOQdf/view?usp=sharing)
+- 📄 Know about my experiences [my_resume](https://drive.google.com/file/d/1VaXMZub-6uYMaRZY-9WDUQ2dJYfdQeNc/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny.**
 
