@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/mekhlaupadhyay" target="blank"><img src="https://img.shields.io/twitter/follow/mekhlaupadhyay?logo=twitter&style=for-the-badge" alt="mekhlaupadhyay" /></a> </p>
 
-- 🔭 I’m currently working on **Polishing my pentesting skills**
+- 🔭 I’m currently working on **Learning DevOps**
 
-- 🌱 I’m currently wanting to learn **Docker, DevOps, K8s, Hadoop**
+- 🌱 I’m currently wanting to learn **Docker, K8s, Jenkins and more DevOps tools**
 
 - 👯 I’m looking to collaborate on **Cloud related projects**
 
