@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [my_resume](https://drive.google.com/file/d/13MNtHh3R7NBV6LWtQgZOOhN0O9EPRtrA/view?usp=drivesdk)
 
-- ⚡ Fun fact **I secretly want to be "jack-of-all-trades**
+- ⚡ Fun fact **I secretly want to be "jack-of-all-trades"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
