@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/mekhlaupadhyay" target="blank"><img src="https://img.shields.io/twitter/follow/mekhlaupadhyay?logo=twitter&style=for-the-badge" alt="mekhlaupadhyay" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud DevOps**
+- 🔭 I’m currently working as **Security Engineer**
 
-- 🌱 I’m currently wanting to learn **Docker, K8s, Jenkins and more DevOps tools**
+- 🌱 I’m currently wanting to learn **DevSecOps**
 
-- 👯 I’m looking to collaborate on **Cloud related projects**
+- 👯 I’m looking to collaborate on **Cloud/ security related projects**
 
 - 📫 How to reach me **mekhlaupadhyay@gmail.com**
 
 - 📄 Know about my experiences [my_resume](https://drive.google.com/file/d/13MNtHh3R7NBV6LWtQgZOOhN0O9EPRtrA/view?usp=drivesdk)
 
-- ⚡ Fun fact **I love Playing games!**
+- ⚡ Fun fact **I secretly want to be "jack-of-all-trades**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
