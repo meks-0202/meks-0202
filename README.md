@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **mekhlaupadhyay@gmail.com**
 
-- 📄 Know about my experiences [my_resume](https://drive.google.com/file/d/1BPHwoXyfPxqtaGW5MwQBoAQuzFpoATJN/view?usp=sharing)
+- 📄 Know about my experiences [my_resume](https://drive.google.com/file/d/13MNtHh3R7NBV6LWtQgZOOhN0O9EPRtrA/view?usp=drivesdk)
 
-- ⚡ Fun fact **I love sleeping!**
+- ⚡ Fun fact **I love Playing games!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
